@@ -9,3 +9,5 @@ This repository was created to practice basic Git and GitHub workflows, includin
 - Creating and managing repositories.
 - Working with pull requests.
 - Making commits and tracking changes.
+
+💚 Thanks for reading!
